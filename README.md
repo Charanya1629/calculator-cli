@@ -8,6 +8,8 @@ Addition, Subtraction, Multiplication, Division
 Handles invalid inputs gracefully
 
 Loops until user chooses to exit.
+# Technologies Used
+python 3.
 # How to Run
 1. Clone this repository
 2. Open terminal and navigate into the folder
