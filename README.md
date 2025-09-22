@@ -34,6 +34,16 @@ Result: 15.0
 # Screenshot
 <img width="641" height="680" alt="Screenshot 2025-09-22 125019" src="https://github.com/user-attachments/assets/ff277d53-0677-4bfd-907c-58b0087d193c" />
 
+# Key Concepts Learned
+
+Functions in Python
+
+Loops and conditionals
+
+CLI interaction using input()
+
+Error handling
+
 # Future Improvements
 
 Add advanced operations (square root, modulus, power)
